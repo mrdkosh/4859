@@ -1,7 +1,3 @@
 #EXTM3U
-#EXTINF:-1,cool
-https://proxy-7.mazana.tv/V2_emn.m3u8s?codec_id=1267&session=018fd50e131ef37bf498a1f89c953b30
-#EXTINF:-1,train
-https://yashmak-yonder.site/pl/H4sIAAAAAAAAAw3L3XJEMBgA0FeSxNbqzN4oqrrJrEg.4o58WoMY06798fTtuT8UPUsD2x8Plh0t.gF76YMvP2S.xwISdK9VFVJwq9PVACrjFOvU4TuWZpSZouSiPVQ2Rt_CTKUSP4U.MDULKD3gdiwenDVzrwSBCQ1X2NrpvpfL4KokJ0DkjEmzQS38bkxvkNhnCygMyE_pXb0u.7jLOHfNnm4tXdOujupOr7Eh389uaaDdB1Jq_8aX4ayX.U1o.XtmcAUnIkzxYVyjZLVOTfZ_xuEGMXBOc2EBN5uEu4wH085RfilOpz_xQCTCCQEAAA--/master.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJteS1hdXRoIiwiaWF0IjoxNzg5NTk4NDY3LCJuYmYiOjE3ODk1OTg0NjcsImV4cCI6MTc4OTYxMjg2NywiaXBfY2lkciI6IjJhMDI6NzY4OjVlMzI6ODQ3Njo6LzY0In0.bN_Z5xD1aSzMgTa6usvMdYAiTaxIts9sleLQcnUk0yg
-#EXTINF:-1,pool
-https://stream-32.mazana.tv/V2_emn.m3u8s?codec_id=1596&session=018fd50e131ef37bf498a1f89c953b30&offset=-0.01
+#EXTINF:-1,training day
+https://nm8bcfdtc4vx.tnmr.org/hls2/02/02583/,rs0jaj1ctvzx_h,lang/eng/rs0jaj1ctvzx_eng,.urlset/master.m3u8?t=_6ygYrBagN6-rNfV6KCYz964DlDXUR_JKtR1szx-Wi4&s=1789601150&e=28800&f=12917661&i=0.3&sp=0&fr=rs0jaj1ctvzx
